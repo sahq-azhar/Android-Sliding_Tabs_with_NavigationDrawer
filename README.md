@@ -1,6 +1,8 @@
 # Android Sliding Tabs with NavigationDrawer
 
-one of the most used layout for organized and minimal display
+One of the most used layout for organized and minimal display
+
+This App contains Navigation Drawer with 4 Fragments,and Sliding/Swipeable tabs present in the first fragment
 
 **Some photos: -** <br>
 
@@ -17,3 +19,6 @@ one of the most used layout for organized and minimal display
 </tr>
 </table>
 
+-----------------------------------------------------------------
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
