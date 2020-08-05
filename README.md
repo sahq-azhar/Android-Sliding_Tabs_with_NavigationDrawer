@@ -5,7 +5,7 @@ one of the most used layout for organized and minimal display
 **Some photos: -** <br>
 
 ![20200806_005506](https://user-images.githubusercontent.com/43394618/89456307-4ebd4000-d781-11ea-8a03-0b58c1abcefc.gif)
-<a href="https://ibb.co/z4HfsgL"><img src="https://i.ibb.co/1mJ2ZNp/20200806-005506.gif" alt="20200806-005506" border="0"></a>
+
 
 <table>
   <tr>
