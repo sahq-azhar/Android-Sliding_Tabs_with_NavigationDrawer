@@ -1,6 +1,6 @@
-# Android-Sliding_Tabs_with_NavigationDrawer
+# Android Sliding Tabs with NavigationDrawer
 
-My one of the most used layout for organized and minimal display
+one of the most used layout for organized and minimal display
 
 **Some photos: -** <br>
 <table>
