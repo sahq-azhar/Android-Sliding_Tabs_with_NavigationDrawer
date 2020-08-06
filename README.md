@@ -1,10 +1,10 @@
-# Android Sliding Tabs with NavigationDrawer
+# Android Sliding Tabs with NavigationDrawer [level: Beginner]
 
 One of the most used layout for organized and minimal display
 
 This App contains Navigation Drawer with 4 Fragments,and Sliding/Swipeable tabs present in the first fragment
 
-**Some photos: -** <br>
+**Photos: -** <br>
 
 ![20200806_005506](https://user-images.githubusercontent.com/43394618/89456307-4ebd4000-d781-11ea-8a03-0b58c1abcefc.gif)
 
