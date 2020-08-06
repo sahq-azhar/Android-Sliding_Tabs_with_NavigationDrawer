@@ -7,7 +7,7 @@ This App contains Navigation Drawer with 4 Fragments,and Sliding/Swipeable tabs 
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:wolox/<reponame>.git
+git clone https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDrawer
 ```
 
 **Photos: -** <br>
