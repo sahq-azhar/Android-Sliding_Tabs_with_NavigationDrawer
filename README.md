@@ -27,4 +27,7 @@ git clone https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDraw
 
 -----------------------------------------------------------------
 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)]
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)]
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)] <br>
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)]
