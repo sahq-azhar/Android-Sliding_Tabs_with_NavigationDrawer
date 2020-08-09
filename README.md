@@ -32,3 +32,11 @@ git clone https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDraw
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)]
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)] <br>
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)]
+<br>
+<br>
+
+**⭐ The repo**
+<br>
+<br>
+
+**Eat, Sleep, CODE, Repeat!**
