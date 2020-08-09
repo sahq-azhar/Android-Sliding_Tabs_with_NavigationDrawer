@@ -24,6 +24,10 @@ git clone https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDraw
 <td><img src="https://i.ibb.co/88vMsFp/Screenshot-20200806-002351.png" width="300"></td>
 </tr>
 </table>
+ <br>
+ 
+ 🍂[Here is the FLUTTER version](https://github.com/sahq-azhar/Flutter-NavigationDrawer)
+ <br>
 
 -----------------------------------------------------------------
 
